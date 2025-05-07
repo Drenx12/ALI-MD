@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "pOd0UawQ#pJGPWXSdBrliJ4zM-ZHDRzV8VMQde6NTVSV-MFAGjrE",
+      "description": "",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     
     
@@ -60,7 +60,7 @@
     "WELCOME": {
       "description": "make it true if want welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     
    "GOODBYE": {
@@ -122,7 +122,7 @@
     "DELETE_LINK": {
       "description": "Make it true if you want bot auto delete group link.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
     
     "ANTI_LINK": {
